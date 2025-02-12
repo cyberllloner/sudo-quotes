@@ -11,3 +11,4 @@ source=$(echo "$randomQuote" | cut -d '-' -f 2)
 
 echo -e "\n${BOLD}${quote}${NOCOLOR}\n"
 echo -e "— ${source}\n"
+echo -e "— ${randomGreeting}\n"
