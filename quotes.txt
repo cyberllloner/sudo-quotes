@@ -1,2 +1,3 @@
 "Software is like sex. it's better when it's free." - Linus Torvalds
 "Talk is cheap. Show me the code." - Linus Torvalds
+"The idea of free software is that users of computing deserve freedom. They deserve in particular to have control over their computing. And proprietary software does not allow users to have control of their computing." - Richard Stallman
