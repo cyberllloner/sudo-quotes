@@ -34,18 +34,19 @@ To install `sudo-quotes`, follow these steps:
 Every time you open a new terminal, a random quote will be displayed.
 
 ## Contributing
+We welcome contributions from the community! Here's how you can contribute:
 
 ### Adding Quotes
-1. Fork the repository by clicking the "Fork" button on the top right of the repository page.
-2. Navigate to your forked repository.
-3. Edit the `quotes.txt` file to add your quote in the format `Quote - Source` on a new line.
-4. Commit the changes and create a pull request.
+1. **Fork the repository**: Click the "Fork" button on the top right of the repository page.
+2. **Edit `quotes.txt`**: Add your quote in the format `Quote - Source` on a new line.
+3. **Commit and create a pull request**.
 
 ### Adding Greetings
-1. Fork the repository by clicking the "Fork" button on the top right of the repository page.
-2. Navigate to your forked repository.
-3. Edit the `greetings.txt` file to add your greeting on a new line.
-4. Commit the changes and create a pull request.
+1. **Fork the repository**: Click the "Fork" button on the top right of the repository page.
+2. **Edit `greetings.txt`**: Add your greeting on a new line.
+3. **Commit and create a pull request**.
+
+**Important**: Please add each quote and source/greeting on a single line, even if the quote is long.
 
 ### Contributing to Code
 1. Fork the repository by clicking the "Fork" button on the top right of the repository page.
