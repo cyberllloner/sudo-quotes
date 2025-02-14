@@ -69,4 +69,4 @@ Every time you open a new terminal, a random quote will be displayed.
 6. Open a pull request by navigating to your forked repository on GitHub and clicking the "New pull request" button.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+See the [LICENSE](LICENSE) file for details.
