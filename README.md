@@ -2,7 +2,6 @@
 > Welcome to **sudo-quotes** a delightful way to enhance your command-line experience with inspiring, humorous, and thought-provoking quotes from the world of Free Software and GNU/Linux.
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/license-mit.svg)](https://forthebadge.com)
 
 ## 📃 Description
