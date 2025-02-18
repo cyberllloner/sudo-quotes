@@ -1,11 +1,14 @@
-# sudo-quotes
+# 🐧💬 sudo-quotes
+> Welcome to **sudo-quotes** a delightful way to enhance your command-line experience with inspiring, humorous, and thought-provoking quotes from the world of Free Software and GNU/Linux.
 
-Welcome to **sudo-quotes** – a delightful way to enhance your command-line experience with inspiring, humorous, and thought-provoking quotes from the world of GNU/Linux and Free Software.
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/license-mit.svg)](https://forthebadge.com)
 
-## Description
+## 📃 Description
 `sudo-quotes` is a lightweight Shell script that injects a dose of inspiration into your command-line routine. Each time you open a new terminal, you'll be greeted with a random quote from the world of GNU/Linux and Free Software, making your terminal sessions more enjoyable and thought-provoking.
 
-## Installation
+## 🛠️ Installation
 To install `sudo-quotes`, follow these steps:
 
 1. Clone the repository:
@@ -30,10 +33,10 @@ To install `sudo-quotes`, follow these steps:
    source ~/.bashrc
    ```
 
-## Usage
+## 🚀 Usage
 Every time you open a new terminal, a random quote will be displayed.
 
-## Contributing
+## 🧩 Contributing
 We welcome contributions from the community! Here's how you can contribute:
 
 ### Adding Quotes
@@ -69,5 +72,5 @@ We welcome contributions from the community! Here's how you can contribute:
    ```
 6. Open a pull request by navigating to your forked repository on GitHub and clicking the "New pull request" button.
 
-## License
+## 📜 License
 [MIT License](LICENSE)
