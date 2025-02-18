@@ -5,7 +5,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/license-mit.svg)](https://forthebadge.com)
 
 ## 📃 Description
-`sudo-quotes` is a lightweight Shell script that injects a dose of inspiration into your command-line routine. Each time you open a new terminal, you'll be greeted with a random quote from the world of GNU/Linux and Free Software, making your terminal sessions more enjoyable and thought-provoking.
+`sudo-quotes` is a lightweight Shell script that injects a dose of inspiration into your command-line routine. Each time you open a new terminal, you'll be greeted with a random quote from the world of Free Software and GNU/Linux, making your terminal sessions more enjoyable and thought-provoking.
 
 ## 🛠️ Installation
 To install `sudo-quotes`, follow these steps:
