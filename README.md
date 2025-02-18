@@ -70,4 +70,4 @@ We welcome contributions from the community! Here's how you can contribute:
 6. Open a pull request by navigating to your forked repository on GitHub and clicking the "New pull request" button.
 
 ## License
-See the [LICENSE](LICENSE) file for details.
+[MIT License](LICENSE)
