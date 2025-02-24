@@ -1,3 +1,13 @@
 "Software is like sex. it's better when it's free." - Linus Torvalds
 "Talk is cheap. Show me the code." - Linus Torvalds
 "The idea of free software is that users of computing deserve freedom. They deserve in particular to have control over their computing. And proprietary software does not allow users to have control of their computing." - Richard Stallman
+"Free software is software that respects your freedom and the social solidarity of your community." - Richard Stallman  
+"When you start to think about what software freedom really means, you start to think about what freedom really means." - Eben Moglen  
+"Open source is about collaborating; not competing." - Paul Everitt  
+"In real open source, you have the right to control your own destiny." - Linus Torvalds  
+"Software is a great combination of artistry and engineering, and open-source is the best way to keep it alive." - Linus Torvalds  
+"Proprietary software is an injustice." - Richard Stallman  
+"The best way to predict the future is to invent it, and the best way to invent it is to share it." - Alan Kay  
+"Open-source software is the ultimate expression of user freedom." - Chris DiBona  
+"Sharing knowledge is the most fundamental act of friendship. Because it is a way you can give something without losing something." - Richard Stallman  
+"Open source is the future of software development." - Matt Mullenweg  

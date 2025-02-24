@@ -1,10 +1,15 @@
-#!/bin/env bash
+#!/usr/bin/env bash
+cd "$(dirname "$0")"
 
 # Define color codes for formatting output
 BOLD="\033[1m"
 NOCOLOR="\033[0m"
 RED="\033[31m"
 WRAP_WIDTH=60 # Set the maximum width for wrapping text
+
+# Array of colors to choose from randomly
+COLORS=("\033[31m" "\033[32m" "\033[33m" "\033[34m" "\033[35m" "\033[36m" "\033[37m")
+RANDOM_COLOR=${COLORS[$RANDOM % ${#COLORS[@]}]}
 
 # Check if quotes.txt exists
 if [[ ! -f quotes.txt ]]; then
@@ -33,14 +38,18 @@ if [[ $? -ne 0 ]]; then
 fi
 
 # Extract the quote and the source from the random quote
-quote=$(echo "$randomQuote" | cut -d '-' -f 1)
-source=$(echo "$randomQuote" | cut -d '-' -f 2)
+if [[ "$randomQuote" == *"-"* ]]; then
+  quote=$(echo "$randomQuote" | cut -d '-' -f 1)
+  source=$(echo "$randomQuote" | cut -d '-' -f 2-)
+else
+  quote="$randomQuote"
+  source="Unknown"
+fi
 
 # Wrap long quotes and greetings to ensure they fit within the specified width
 wrappedQuote=$(echo "$quote" | fold -s -w $WRAP_WIDTH)
-wrappedSource=$(echo "$source" | fold -s -w $WRAP_WIDTH)
 
-# Print the quote and source with bold formatting
-echo -e "\n${BOLD}${wrappedQuote}${NOCOLOR}\n"
-echo -e " — ${BOLD}${wrappedSource}${NOCOLOR}\n"
-echo -e "  "${randomGreeting}"\n" # Print the greeting
+# Print the quote and source with a random color
+echo -e "\n${RANDOM_COLOR}${BOLD}${wrappedQuote}${NOCOLOR}\n"
+echo -e " — ${BOLD}${source}${NOCOLOR}\n"
+echo -e "  ${RANDOM_COLOR}${randomGreeting}${NOCOLOR}\n"  # Print the greeting in the same color
