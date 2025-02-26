@@ -5,10 +5,17 @@ cd "$(dirname "$0")"
 BOLD="\033[1m"
 NOCOLOR="\033[0m"
 RED="\033[31m"
+GREEN="\033[32m"
+YELLOW="\033[33m"
+BLUE="\033[34m"
+MAGENTA="\033[35m"
+CYAN="\033[36m"
+WHITE="\033[37m"
+
 WRAP_WIDTH=60 # Set the maximum width for wrapping text
 
 # Array of colors to choose from randomly
-COLORS=("\033[31m" "\033[32m" "\033[33m" "\033[34m" "\033[35m" "\033[36m" "\033[37m")
+COLORS=($RED $GREEN $YELLOW $BLUE $MAGENTA $CYAN $WHITE)
 RANDOM_COLOR=${COLORS[$RANDOM % ${#COLORS[@]}]}
 
 # Check if quotes.txt exists
