@@ -5,9 +5,9 @@
 "When you start to think about what software freedom really means, you start to think about what freedom really means." - Eben Moglen  
 "Open source is about collaborating; not competing." - Paul Everitt  
 "In real open source, you have the right to control your own destiny." - Linus Torvalds  
-"Software is a great combination of artistry and engineering, and open-source is the best way to keep it alive." - Linus Torvalds  
+"Software is a great combination of artistry and engineering, and open source is the best way to keep it alive." - Linus Torvalds  
 "Proprietary software is an injustice." - Richard Stallman  
 "The best way to predict the future is to invent it, and the best way to invent it is to share it." - Alan Kay  
-"Open-source software is the ultimate expression of user freedom." - Chris DiBona  
+"Open source software is the ultimate expression of user freedom." - Chris DiBona  
 "Sharing knowledge is the most fundamental act of friendship. Because it is a way you can give something without losing something." - Richard Stallman  
 "Open source is the future of software development." - Matt Mullenweg  
