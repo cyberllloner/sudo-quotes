@@ -23,8 +23,6 @@ Command line ready. Let’s roll.
 Decrypting the day...
 Another keystroke, another possibility!
 Keep calm and code on.
-Hey there, coder! May your code run smooth, your coffee stay hot, and your bugs be easy to squash! Happy programming!
-Keep calm, code on, and may your WiFi never disconnect during a git push! :D
 Code. Coffee. Repeat. (And maybe sometimes sleep.)
 Keep coding, keep breaking and keep fixing!
 Debugging: 99% crying, 100% winning!
