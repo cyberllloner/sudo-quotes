@@ -61,15 +61,39 @@ We welcome contributions from the community! Here's how you can contribute:
    ```sh
    git checkout -b feature/your-feature
    ```
-4. Make your changes and commit them:
+4. Make your changes:
    ```sh
-   git commit -am "Add: your feature"
+   Edit the files as needed to implement your feature.
    ```
-5. Push to the branch:
+5. Stage your changes:
+   ```sh
+   git add .
+   ```
+6. Commit your changes:
+   ```sh
+   git commit -m "Add: your feature"
+   ```
+7. Push to your branch:
    ```sh
    git push origin feature/your-feature
    ```
-6. Open a pull request by navigating to your forked repository on GitHub and clicking the "New pull request" button.
-
+8. Open a pull request:
+   ```
+   Navigate to the original repository on GitHub (the one you forked from) 
+   and click the "New pull request" button. Select your forked repository 
+   and the branch you just pushed to propose merging your changes into the 
+   original repository's main branch.
+   ```
+9. Describe your changes:
+   ```
+   Fill out the pull request form with a title and description of the 
+   changes you made. This helps the maintainers understand your 
+   contribution.
+   ```
+10. Submit the pull request:
+    ```
+    Click the "Create pull request" button to submit your changes for review.
+    ```
+   
 ## 📜 License
 [MIT License](LICENSE)
