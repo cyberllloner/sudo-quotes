@@ -48,7 +48,7 @@ We welcome contributions from the community! Here's how you can contribute:
 2. **Edit `greetings.txt`**: Add your greeting on a new line.
 3. **Commit and create a pull request**.
 
-#### Important: Please add each quote and source/greeting on a single line, even if it's too long.
+##### ⚠️ Important: Please add each quote and source/greeting on a single line, even if it's too long.
 
 ### Contributing to Code
 1. Fork the repository by clicking the "Fork" button on the top right of the repository page.
